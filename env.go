@@ -7,9 +7,9 @@ import (
 )
 
 var (
-	telegramTokenBot string
-	jackettAddress   string
-	jackettAPIKey    string
+	telegramTokenBot 1203236369:AAERcUpBp3SWqNEj90WJBbPGhPYInfCpkAU
+	jackettAddress   http://cupid.whatbox.ca:11741
+	jackettAPIKey    he1iek255fq1lw85a20vokrgfumsvt1l
 	dev              bool
 )
 
